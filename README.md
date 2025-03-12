@@ -1,3 +1,4 @@
+
 # Tema: Estructuras de datos en Python
 |Concepto|Descripción|
 |-:|:-|
