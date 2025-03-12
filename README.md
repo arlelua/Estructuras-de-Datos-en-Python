@@ -8,3 +8,12 @@
 | |**Aplicar la estructura de datos en un caso de uso real mediante código**|
 |Estrategia de Aprendizaje:|Aprendizaje activo.|
 |Técnica Instruccional:|Demostración guiada, práctica dirigida y analogías.|
+
+# Estructurado para:
+![PyPI - Versions from Framework Classifiers](https://img.shields.io/pypi/frameworkversions/jupyterlab/jupyterlab)
+
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3) ![Static Badge](https://img.shields.io/badge/Lybrary-Pandas-green?labelColor=blue)
+
+
+![Static Badge](https://img.shields.io/badge/Nivel-b%C3%A1sico-orange)
+
