@@ -29,6 +29,7 @@
 ![Static Badge](https://img.shields.io/badge/Lybrary-NumPy-red?labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/Lybrary-Matplotlib-yellow?labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/Lybrary-Seaborn-violet?labelColor=blue)
+![Static Badge](https://img.shields.io/badge/Library-customtkinter-indigo)
 
 # Chatbots
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
